@@ -1,4 +1,4 @@
-# ecommerce
+# Ecommerce
 
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
